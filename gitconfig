@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = shiori.m.0723@gmail.com
+	name = shiori miwa
